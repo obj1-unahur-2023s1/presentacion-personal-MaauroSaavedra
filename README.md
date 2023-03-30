@@ -1,6 +1,6 @@
 # Presentacion de Mauro Saavedra
 
-![Un Carpincho en la pelopincho y la BZRP Music Sessions](/ruta/a/la/imagen.jpg)
+![Un Carpincho en la pelopincho y la BZRP Music Sessions](carpincho-42.jpg)
 
 
 ##
