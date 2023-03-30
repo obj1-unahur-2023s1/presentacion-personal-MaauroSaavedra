@@ -3,9 +3,13 @@
 ![Un Carpincho en la pelopincho y la BZRP Music Sessions](carpincho-42.jpg)
 
 
-##
+## Pasatiempos:
 
-### Materias aprobadas
+- Jugar a la compu
+- Mirar series
+- Comer
+
+## Materias aprobadas
 
 - Introduccion a la logica
 - Matematica para informatica 1
