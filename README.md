@@ -3,7 +3,7 @@
 ![Un Carpincho en la pelopincho y la BZRP Music Sessions](carpincho-42.jpg)
 
 
-## Pasatiempos:
+## Pasatiempos
 
 - Jugar a la compu
 - Mirar series
