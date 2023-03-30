@@ -1,8 +1,11 @@
 # Presentacion de Mauro Saavedra
 
-![Foto de mi perro](/ruta/a/la/imagen.jpg)
+![Foto de](/ruta/a/la/imagen.jpg)
 
-## Materias aprobadas
+
+##
+
+### Materias aprobadas
 
 - Introduccion a la logica
 - Matematica para informatica 1
